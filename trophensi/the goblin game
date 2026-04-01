@@ -1,3 +1,5 @@
+#Projet : THE GOBLIN GAME
+#Auteurs : Laszlo HELLY;Dan METAIS,Louis MYOUX; Antoine ........
 import pygame
 import random
 import os
